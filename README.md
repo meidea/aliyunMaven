@@ -1,3 +1,3 @@
-README.md
+# aliyun-maven
 
-#使用Aliyun 的maven 源的 maven.
+使用aliyun maven仓库加速
